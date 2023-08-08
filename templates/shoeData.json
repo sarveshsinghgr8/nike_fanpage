@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "productName": "Nike Air Max 1",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/501b85a2-8e91-4348-b75f-609c18b2bb51/air-max-1-shoes-ZCSX34.png",
+    "price": "₹ 12 795.00",
+    "description": "Meet the leader of the pack. Inspired by French architecture, celebrated in sport and revelled by fashion, Air Max 1 is the first shoe in the family that revealed Nike Air to the world. With a fast-paced look, tried-and-tested cushioning and wavy mudguard, it's no wonder it has reigned supreme since 1987."
+  },
+  {
+    "id": 1,
+    "productName": "Nike Metcon 9",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/485358b3-c1c5-41d2-8598-f8baa78a23f5/metcon-9-workout-shoes-ldMsxB.png",
+    "price": "₹ 12 795.00",
+    "description": "Whatever your why is for working out, the Metcon 9 makes it all worth it. We improved on the 8 with a larger Hyperlift plate and added rubber rope wrap. Intended for lifters, trainers and go-getters, some of the greatest athletes in the world swear by it, and it's still the gold standard that delivers day after day."
+  },
+  {
+    "id": 2,
+    "productName": "Nike InfinityRN 4",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/df6a994a-bc85-4637-94bf-3ae4af43a8fe/infinityrn-4-road-running-shoes-mLRjcz.png",
+    "price": "₹ 14 995.00",
+    "description": "With supportive cushioning built for a smooth run, the Nike InfinityRN 4 is a brand-new take on a familiar favourite. It's made from our all-new Nike ReactX foam, which gives you 13% more energy return compared with Nike React foam, to help you stay fresh and bouncy. (What's more? Nike ReactX reduces the carbon footprint of the midsole by at least 43% compared with Nike React foam, so it helps support the planet, too). We coupled the ReactX foam with Nike Running's best-fitting Flyknit yet, so you can take off any time, anywhere with secure upper support and breathability. It's the kind of shoe that can grant you that priceless peace of mind to go faster and further, thanks to an intuitive design that supports every stride."
+  },
+  {
+    "id": 3,
+    "productName": "Nike Air Max 1 '86 OG G",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b57862b-ef88-4e9d-83cb-187bdc4969e8/air-max-1-86-og-g-golf-shoes-7QZsWP.png",
+    "price": "₹ 13 995.00",
+    "description": "A streetwear legend hits the links in the Air Max 1 G. Featuring the 4-window design that lets you peak at the large Air unit underneath, this is on-course cool, confidence and comfort personified. It sports the vintage Air Max 1 details you love, like clean lines and unmistakable colours, and melds them with our game-changing golf technology, so you can play all day, all year round in a timeless fit."
+  },
+  {
+    "id": 4,
+    "productName": "Nike Air Max 1 '86 OG G",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b57862b-ef88-4e9d-83cb-187bdc4969e8/air-max-1-86-og-g-golf-shoes-7QZsWP.png",
+    "price": "₹ 13 995.00",
+    "description": "A streetwear legend hits the links in the Air Max 1 G. Featuring the 4-window design that lets you peak at the large Air unit underneath, this is on-course cool, confidence and comfort personified. It sports the vintage Air Max 1 details you love, like clean lines and unmistakable colours, and melds them with our game-changing golf technology, so you can play all day, all year round in a timeless fit."
+  },
+  {
+    "id": 5,
+    "productName": "Nike Air Max 1 '86 OG G",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b57862b-ef88-4e9d-83cb-187bdc4969e8/air-max-1-86-og-g-golf-shoes-7QZsWP.png",
+    "price": "₹ 13 995.00",
+    "description": "A streetwear legend hits the links in the Air Max 1 G. Featuring the 4-window design that lets you peak at the large Air unit underneath, this is on-course cool, confidence and comfort personified. It sports the vintage Air Max 1 details you love, like clean lines and unmistakable colours, and melds them with our game-changing golf technology, so you can play all day, all year round in a timeless fit."
+  },
+  {
+    "id": 6,
+    "productName": "Nike Air Max 1 '86 OG G",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b57862b-ef88-4e9d-83cb-187bdc4969e8/air-max-1-86-og-g-golf-shoes-7QZsWP.png",
+    "price": "₹ 13 995.00",
+    "description": "A streetwear legend hits the links in the Air Max 1 G. Featuring the 4-window design that lets you peak at the large Air unit underneath, this is on-course cool, confidence and comfort personified. It sports the vintage Air Max 1 details you love, like clean lines and unmistakable colours, and melds them with our game-changing golf technology, so you can play all day, all year round in a timeless fit."
+  },
+  {
+    "id": 7,
+    "productName": "Nike Air Max 1 '86 OG G",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b57862b-ef88-4e9d-83cb-187bdc4969e8/air-max-1-86-og-g-golf-shoes-7QZsWP.png",
+    "price": "₹ 13 995.00",
+    "description": "A streetwear legend hits the links in the Air Max 1 G. Featuring the 4-window design that lets you peak at the large Air unit underneath, this is on-course cool, confidence and comfort personified. It sports the vintage Air Max 1 details you love, like clean lines and unmistakable colours, and melds them with our game-changing golf technology, so you can play all day, all year round in a timeless fit."
+  },
+  {
+    "id": 8,
+    "productName": "Nike Air Max 1 '86 OG G",
+    "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/7b57862b-ef88-4e9d-83cb-187bdc4969e8/air-max-1-86-og-g-golf-shoes-7QZsWP.png",
+    "price": "₹ 13 995.00",
+    "description": "A streetwear legend hits the links in the Air Max 1 G. Featuring the 4-window design that lets you peak at the large Air unit underneath, this is on-course cool, confidence and comfort personified. It sports the vintage Air Max 1 details you love, like clean lines and unmistakable colours, and melds them with our game-changing golf technology, so you can play all day, all year round in a timeless fit."
+  }
+]
