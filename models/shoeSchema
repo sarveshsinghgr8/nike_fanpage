@@ -1,0 +1,24 @@
+const mongoose = require('mongoose');
+
+const nikeSchema = mongoose.Schema({
+  productName: {
+    type: String,
+  },
+  price: {
+    type: String,
+  },
+  identification: {
+    type: Number,
+    unique:true,
+  },
+  description: {
+    type: String,
+  },
+  image:{
+    type:String,
+  }
+});
+
+const shoe_data = mongoose.model('shoe_data', nikeSchema); // Corrected order of arguments
+
+module.exports = shoe_data;
